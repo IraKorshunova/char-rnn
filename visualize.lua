@@ -1,7 +1,7 @@
 
 --[[
 
-This file samples characters from a trained model
+This file makes plots similar to ones in the blog post.
 
 Code is based on implementation in 
 https://github.com/oxford-cs-ml-2015/practical6
