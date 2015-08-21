@@ -1,7 +1,8 @@
 
 --[[
 
-This file makes plots similar to ones in the blog post.
+This file makes plots similar to those in the blog post.
+Requires fblualib.
 
 Code is based on implementation in 
 https://github.com/oxford-cs-ml-2015/practical6
